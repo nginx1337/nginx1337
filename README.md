@@ -1,17 +1,17 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="nginx — делаю Axiom, страницы «ссылка в био»" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img src="banner-light.png" alt="nginx — делаю axiom, страницы «ссылка в био»" width="100%">
 </picture>
 
 <br>
 
-Делаю **[Axiom](https://axiom-web.fun)** — сервис страниц «ссылка в био». Одна ссылка в профиле, а за ней всё, что ты делаешь: соцсети, музыка, видео, работы и контакты — в оформлении под себя, а не по шаблону.
+Делаю **[axiom](https://axiom-web.fun)** — сервис страниц «ссылка в био». Одна ссылка в профиле, а за ней всё, что ты делаешь: соцсети, музыка, видео, работы и контакты — в оформлении под себя, а не по шаблону.
 
 Вайбкодер, работаю в Figma.
 
 #### Сейчас
 
-- Axiom открыт по приглашениям. Моя страница — [axiom-web.fun/@kekw](https://axiom-web.fun/@kekw)
+- Доступ в axiom пока по приглашениям. Моя страница — [axiom-web.fun/@kekw](https://axiom-web.fun/@kekw)
 - Редактор с шаблонами, музыкой и видео
 - Статистика страницы без cookie и без слежки за посетителями
 
@@ -22,4 +22,4 @@
 #### Связь
 
 - Telegram — [@opnginx](https://t.me/opnginx)
-- Канал Axiom — [t.me/axiomweb](https://t.me/axiomweb)
+- Канал axiom — [t.me/axiomweb](https://t.me/axiomweb)
