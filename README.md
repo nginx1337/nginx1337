@@ -17,7 +17,7 @@ A vibe coder who designs in Figma and ships the result. I come up with interface
 
 ## axiom
 
-<a href="https://axiom-web.fun"><img src="card-axiom.png" width="100%" alt="axiom — link-in-bio pages. Nuxt 4, Vue 3, TypeScript, SQLite. 16 editor sections, 4 page layouts, stats without cookies. Invite-only beta at axiom-web.fun."></a>
+<a href="https://axiom-web.fun"><img src="axiom.png" width="100%" alt="axiom — link-in-bio pages. Nuxt 4, Vue 3, TypeScript, SQLite. One link — everything you do. 16 editor sections, 4 page layouts, stats without cookies. Invite-only beta at axiom-web.fun."></a>
 
 A link-in-bio service. One link in your profile, and behind it everything you do — socials, music, video, work and contacts — styled your way instead of from a template.
 
@@ -31,7 +31,7 @@ Access is **invite-only** for now — invites and news in [t.me/axiomweb](https:
 
 ## SmoothScroll
 
-<a href="https://github.com/nginx1337/SmoothScroll"><img src="card-smoothscroll.png" width="100%" alt="SmoothScroll — smooth mouse-wheel scrolling for macOS 27. Swift, about 1,100 lines, no dependencies, no network, 25 tests, MIT."></a>
+<a href="https://github.com/nginx1337/SmoothScroll"><img src="smoothscroll.png" width="100%" alt="SmoothScroll — smooth mouse-wheel scrolling for macOS 27. Swift, about 1,100 lines, no dependencies, no network, 25 tests, MIT."></a>
 
 A tiny menu bar app for macOS 27: every mouse-wheel notch turns into a smooth ease-out glide, synced to your display (60/120 Hz). Trackpads and Magic Mouse are left untouched.
 
@@ -44,7 +44,7 @@ Source, build steps and settings — [nginx1337/SmoothScroll](https://github.com
 
 ## Stack
 
-<img src="card-stack.png" width="100%" alt="Stack: Figma, Nuxt 4, Vue 3, TypeScript, Swift, SQLite, nginx, Linux.">
+<img src="stack.png" width="100%" alt="Stack: Figma, Nuxt 4, Vue 3, TypeScript, Swift, SQLite, nginx, Linux.">
 
 **Contact** — Telegram [@opnginx](https://t.me/opnginx)
 
