@@ -42,6 +42,19 @@ A tiny menu bar app for macOS 27: every mouse-wheel notch turns into a smooth ea
 
 Source, build steps and settings — [nginx1337/SmoothScroll](https://github.com/nginx1337/SmoothScroll).
 
+## Pegline
+
+<a href="https://github.com/nginx1337/Pegline"><img src="pegline.png" width="100%" alt="Pegline — screenshots on a clothesline under the menu bar, macOS 27. Swift 6, AppKit, Core Animation, FSEvents. About 6,100 lines, no dependencies, no network, 32 tests, MIT."></a>
+
+A menu bar app for macOS 27: every new screenshot hangs on a thin clothesline right under the menu bar, clipped on with a little peg and gently swaying. Click to copy, double-click for Preview, hold for Markup, drag it into any app.
+
+- **Instant** — picks up new screenshots by itself, including ⌃⇧⌘4 clipboard shots and images copied from Telegram
+- **Out of the way** — hides on its own; hold the pointer at the top edge or press ⌃⌥⌘L to bring it back
+- **Private** — no network, no telemetry, no dependencies; password-manager items on the clipboard are never read
+- **Tested** — 32 unit tests plus a built-in self-check that drives the real app
+
+Source, build steps and how it works — [nginx1337/Pegline](https://github.com/nginx1337/Pegline).
+
 ## Stack
 
 <img src="stack.png" width="100%" alt="Stack: Figma, Nuxt 4, Vue 3, TypeScript, Swift, SQLite, nginx, Linux.">
@@ -81,6 +94,17 @@ Source, build steps and settings — [nginx1337/SmoothScroll](https://github.com
 - **Проверено** — 25 тестов на ядро прокрутки
 
 Код, сборка и настройки — [nginx1337/SmoothScroll](https://github.com/nginx1337/SmoothScroll).
+
+### Pegline
+
+Приложение в строке меню macOS 27: каждый новый скриншот повисает на тонкой верёвке прямо под строкой меню — на маленькой прищепке, чуть покачиваясь. Клик — скопировать, двойной клик — «Просмотр», удержание — «Разметка», перетаскивание — в любую программу.
+
+- **Сразу** — сам находит новые снимки, в том числе сделанные в буфер обмена (⌃⇧⌘4) и картинки, скопированные из Telegram
+- **Не мешает** — прячется сам; задержите курсор у верхнего края экрана или нажмите ⌃⌥⌘L, чтобы вернуть
+- **Приватно** — без сети, телеметрии и зависимостей; секреты из менеджеров паролей в буфере не читаются
+- **Проверено** — 32 теста и встроенная самопроверка, которая управляет настоящим приложением
+
+Код, сборка и устройство — [nginx1337/Pegline](https://github.com/nginx1337/Pegline).
 
 **Связь** — Telegram [@opnginx](https://t.me/opnginx)
 
