@@ -55,6 +55,20 @@ A menu bar app for macOS 27: every new screenshot hangs on a thin clothesline ri
 
 Source, build steps and how it works — [nginx1337/Pegline](https://github.com/nginx1337/Pegline).
 
+## Islet
+
+<a href="https://github.com/nginx1337/Islet"><img src="islet.png" width="100%" alt="Islet — Now Playing as an island at the top of the screen, macOS 27. Swift 6, SwiftUI, Core Animation, Core Audio. About 5,900 lines, no telemetry, 95 tests, 0% idle CPU, MIT."></a>
+
+A menu bar app for macOS 27: whatever is playing shows up as an island at the top of the screen, like Dynamic Island on iPhone. On a MacBook it grows out of the notch, on an external monitor it floats as a pill. Hover and it expands — big artwork, title, seek bar and controls.
+
+- **Any player** — Music, Spotify, browsers, podcasts, VLC, IINA
+- **Live** — the equaliser bars follow the Mac's real sound and take their colour from the artwork
+- **Out of the way** — hidden when nothing is playing, dims and hides on pause; ⌃⌥⌘N expands and collapses it
+- **Light** — about 0% CPU when idle, no telemetry, no dependencies besides the bundled MediaRemote adapter
+- **Tested** — 95 unit tests plus a built-in self-check
+
+Source, build steps and how it works — [nginx1337/Islet](https://github.com/nginx1337/Islet).
+
 ## Stack
 
 <img src="stack.png" width="100%" alt="Stack: Figma, Nuxt 4, Vue 3, TypeScript, Swift, SQLite, nginx, Linux.">
@@ -105,6 +119,18 @@ Source, build steps and how it works — [nginx1337/Pegline](https://github.com/
 - **Проверено** — 32 теста и встроенная самопроверка, которая управляет настоящим приложением
 
 Код, сборка и устройство — [nginx1337/Pegline](https://github.com/nginx1337/Pegline).
+
+### Islet
+
+Приложение в строке меню macOS 27: то, что сейчас играет, показывается островом у верхнего края экрана — как Dynamic Island на iPhone. На MacBook остров вырастает из чёлки, на внешнем мониторе это отдельная плавающая «таблетка». Наведите курсор, и он раскроется: крупная обложка, название, перемотка и кнопки.
+
+- **Любой плеер** — «Музыка», Spotify, браузеры, подкасты, VLC, IINA
+- **Вживую** — полоски эквалайзера показывают настоящий звук Mac и окрашены в цвет обложки
+- **Не мешает** — спрятан, когда ничего не играет, на паузе приглушается и прячется; ⌃⌥⌘N раскрывает и сворачивает
+- **Легко** — около 0 % процессора в простое, без телеметрии и зависимостей, кроме встроенного адаптера MediaRemote
+- **Проверено** — 95 тестов и встроенная самопроверка
+
+Код, сборка и устройство — [nginx1337/Islet](https://github.com/nginx1337/Islet).
 
 **Связь** — Telegram [@opnginx](https://t.me/opnginx)
 
